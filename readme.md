@@ -42,9 +42,7 @@ If you find this work useful in your research, please consider citing the paper:
 
 ```bibtex
 @misc{hwang2025dia,
-      title={DIA: A Framework for Cooperative
- Alignment and Meta-Prompting in
- Human-AI Interaction}, 
+      title={DIA: A Framework for Cooperative Alignment and Meta-Prompting in Human-AI Interaction}, 
       author={Sanha Hwang},
       year={2025},
       eprint={2506.XXXXX},  // arXiv에 올린 후 부여받은 번호로 수정
