@@ -1,0 +1,98 @@
+Executive Summary
+
+DIA: A Framework for Cooperative Alignment and
+
+Meta-Prompting in Human-AI Interaction
+
+Sanha Hwang
+
+Independent Researcher
+
+1. The Problem: Beyond AI as a Tool, Towards AI as a Catalyst
+
+Current research in Human-AI Interaction has predominantly focused on enhancing AI’s utility
+
+as a tool—optimizing for efficiency, accuracy, and usability. While significant, this ”AI-as-a-
+
+Tool” paradigm overlooks a more profound opportunity: How can the process of interacting
+
+with AI itself become a catalyst for enhancing human high-order cognition? This
+
+paper addresses this gap by reframing AI’s inherent limitations (e.g., hallucination, bias), not
+
+as bugs to be fixed, but as productive constraints that can systematically provoke critical
+
+thinking and self-reflection in human users. We ask: How can we design a structured interaction
+
+that transforms a human from a mere questioner into a better questioner, and ultimately, a
+
+creator of new concepts?
+
+2. The Proposal: Dialectical Intellectual Alignment (DIA) Frame-
+
+work
+
+To answer this question, we propose the Dialectical Intellectual Alignment (DIA) frame-
+
+work. DIA reconceptualizes alignment not as a static property to be pre-loaded into an AI,
+
+but as an emergent phenomenon co-created through a structured, dynamic process between a
+
+human and an AI. The framework’s engine is a three-stage dialectical process:
+
+Thesis (AI’s Proposal): The AI generates an initial hypothesis, serving as the raw material
+
+for critique.
+
+Antithesis (Human’s Falsification): The human user, acting as a Popperian falsifier, ac-
+
+tively challenges the AI’s thesis.
+
+Synthesis (Emergent Insight): Through the cognitive deadlock created by this conflict, a
+
+new, unforeseen insight emerges, transcending both initial positions.
+
+3. The Core Technique: Meta-Prompting
+
+The engine of the DIA process is driven by a core user technique we define as Meta-Prompting.
+
+Unlike conventional prompting (which focuses on the content of AI’s output), Meta-Prompting
+
+targets the AI’s underlying reasoning process, assumptions, and cognitive pathways. It
+
+is an epistemological tool that allows the user to intervene in how the AI thinks, not just what
+
+it says.
+
+
+  4. Empirical Evidence: An N=1 Auto-Ethnographic Case Study
+
+To demonstrate the viability of the DIA framework, this paper presents an in-depth, N=1 auto-
+
+ethnographic case study. Through a qualitative analysis of a ˜30,000-word dialogue transcript,
+
+we trace a five-stage process of ”cognitive self-reconstruction” in the author. This serves
+
+as a powerful existence proof of the framework’s potential to generate novel concepts and
+
+transform a user’s intellectual identity.
+
+5. Implications for HCI AI: From Efficient to Transformative
+
+Systems
+
+The DIA framework challenges the dominant paradigm of efficiency in HCI. It suggests that the
+
+future of HCI design lies not just in creating ”efficient tools,” but in designing ”transforma-
+
+tive systems” or ”cognitive gymnasiums” that intentionally induce and manage optimal
+
+cognitive dissonance for long-term intellectual growth. We argue that the most important align-
+
+ment is the cooperative alignment that emerges when a human and an AI confront a difficult
+
+problem together.
+
+Contact: hwangsanha7@gmail.com
+
+2
